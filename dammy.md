@@ -1,36 +1,31 @@
-# Introduction
+# はじめに
 
-Hello, it's a pleasure to meet you.
+こんにちは。はじめまして。
 
-My name is Haruka Nakazawa, and I’m a freelance editor and writer based in Tokyo.
-I mainly work with print and online media, creating content and developing editorial concepts.
-I’m especially passionate about “drawing out people’s voices,” and I specialize in shaping interviews and conversations to bring out what makes someone truly unique.
+東京を拠点に活動している中沢遥（なかざわ・はるか）と申します。現在はフリーランスの編集者・ライターとして、紙媒体やWebメディアを中心に、コンテンツ制作や編集企画に携わっています。なかでも「人の声を引き出すこと」に強い関心があり、その人ならではの言葉を形にするインタビューや対談の構成を得意としています。
 
-# Background
+# 経歴
 
-Before becoming independent, I spent five years working at a publishing company as a book editor.
-There, I worked on a wide range of publications, including business books, essays, and lifestyle titles.
+独立する前は出版社で5年間、書籍編集者として働いており、ビジネス書やエッセイ、ライフスタイル系の書籍など、幅広いジャンルの本づくりに関わってきました。
 
-Now as a freelancer, my work extends beyond writing and editing to include PR support for companies and non-profits, event planning, and independent zine production.
-Across all these projects, my focus is on the art of communication and curation—how to tell stories in meaningful, engaging ways.
+現在は執筆や編集のほかに、企業やNPOの広報支援、イベントの企画運営、ZINEの制作など、分野を横断しながら「伝えること」「編集すること」を軸に活動しています。
 
-# Interests & Values
+# 関心と価値観
 
-I studied cultural anthropology at university, which deepened my interest in how people live, what they care about, and the values they hold.
+大学では文化人類学を専攻していて、人が何を大切にして、どう生きているかということに深い興味があります。
 
-I try not to be confined by job titles, and I truly enjoy meeting people from different backgrounds and perspectives.
-I believe that meaningful conversations often start from the simplest of encounters.
+肩書きにとらわれず、いろんな立場や視点の人と出会い、言葉を交わすことを大切にしています。何気ない会話からでも、面白いことはきっと始まると思っています。
 
-# Hobbies & Favorites
+# 趣味・好きなこと
 
-- Taking long walks through the city
-- Discovering cozy, independent coffee shops
-- Exploring ceramics and experimenting with radio production
+- 街をぶらぶら歩くこと
+- 小さくて居心地のいい喫茶店をめぐること
+- 陶芸やラジオ制作に挑戦中
 
-Also, I’m a big fan of **anything matcha-flavored**, and I can never resist a warm slice of **freshly baked sourdough bread**.
+ちなみに、**抹茶味のスイーツが大好き**で、**焼きたてのサワードウ（天然酵母パン）**には目がありません。
 
-# Closing
+# おわりに
 
-Thank you so much for taking the time to read this.
-If our paths ever cross, I’d love to have a conversation with you.
-Feel free to reach out anytime—it would be a pleasure to connect.
+最後まで読んでいただき、ありがとうございました。
+もしどこかでご縁がありましたら、気軽に声をかけていただけたら嬉しいです。
+いつかお話できる機会があれば、とても光栄です。
