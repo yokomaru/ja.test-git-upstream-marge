@@ -27,7 +27,7 @@ I believe that meaningful conversations often start from the simplest of encount
 - Discovering cozy, independent coffee shops
 - Exploring ceramics and experimenting with radio production
 
-Also, I’m a big fan of **anything matcha-flavored**, and I can never resist a warm slice of **freshly baked sourdough bread**.
+Also, I’m a big fan of **anything chocorate-flavored**, and I can never resist a warm slice of **freshly baked sourdough bread**.
 
 # Closing
 
