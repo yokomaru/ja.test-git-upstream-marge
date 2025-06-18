@@ -22,7 +22,11 @@
 - 小さくて居心地のいい喫茶店をめぐること
 - 陶芸やラジオ制作に挑戦中
 
+<<<<<<< HEAD
 ちなみに、**抹茶味のスイーツが大好き**で、**焼きたてのサワードウ（天然酵母パン）**には目がありません。
+=======
+Also, I’m a big fan of **anything chocorate-flavored**, and I can never resist a warm slice of **freshly baked sourdough bread**.
+>>>>>>> upstream/main
 
 # おわりに
 
